@@ -27,4 +27,4 @@
 
 // Make three squares. Place them at coordinates 20,20 - 40,50 - a location of your choice
 
-// Remember to then commit and push
+// Remember to then commit, push, and list what you did for points in the "Change Documentation"
